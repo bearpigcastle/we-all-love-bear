@@ -15,7 +15,7 @@
 
 <HEAD>
 
-    <img src='polarb.jpg'>
+    <img src='images/polarb.jpg'>
 
     <form role='form'>
       <label for="email">Find out more</label>
