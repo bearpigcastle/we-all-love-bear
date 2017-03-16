@@ -4,8 +4,16 @@
   <link href='bootstrap-3.3.7-dist/css/bootstrap.css' rel='stylesheet'> 
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-</head>
 
+
+</head>
+<style>
+@media screen and (min-width:320px) and (max-width:640px){
+  body {
+    background: #999;
+    width: 100%;
+  }
+} </style>
 <body>
 
 <div class='container'>
