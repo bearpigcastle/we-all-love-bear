@@ -70,9 +70,8 @@
     </div>
   </div>
 </div>
-</body>
+
 
 
 <!-- Sandwich from: © Kosoff | <a href="http://www.dreamstime.com/">Dreamstime Stock Photos</a> & <a href="http://www.stockfreeimages.com/">Stock Free Images</a> -->
-</html>
 
