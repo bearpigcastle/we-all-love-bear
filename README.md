@@ -14,7 +14,7 @@
 
     <h1>Welcome to bear castle</h1>
 
-<HEAD>
+
 
     <img src='images/polarb.jpg'>
 
@@ -24,11 +24,7 @@
       <button class="btn btn-lg btn-success" type="submit">Send</button>
     </form>
 
-    
-  </div>
-
-    </div>
-
+</div> 
 
 
 
@@ -73,8 +69,6 @@
       <button class="btn-pinterest">Pinterest</button>
     </div>
   </div>
-
-
 </div>
 </body>
 
