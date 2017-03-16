@@ -36,21 +36,21 @@
     <h2><small>The Buzz</small><br />What are people saying?</h2>
     
   <div class='row'>
-    <div class='text-center col-xs-4'>
+    <div class='text-center col-lg-4 col-xs-12'>
     <img class='img-circle' src='images/waddle.png' width="200" height="200">
       <p>Polar bears are so cute!</p>
       <small>piggy said</small>
     </div>
     
     <div class='row'>
-  <div class='text-center col-xs-4'>
+  <div class='text-center col-lg-4 col-xs-12'>
       <img class='img-circle' src='images/song.JPG' width="200" height="200">
       <p>we all love bear!</p>
       <small>little song said</small>
     </div>
    
     <div class='row'>
-  <div class='text-center col-xs-4'>
+  <div class='text-center col-lg-4 col-xs-12'>
       <img class='img-circle' src='images/tu.JPG' width="200" height="200">
       <p>let's play together!</p>
     </div> 
