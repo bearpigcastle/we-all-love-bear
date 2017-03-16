@@ -2,7 +2,6 @@
 <head>
   <title>bear castle</title>
   <link href='bootstrap-3.3.7-dist/css/bootstrap.css' rel='stylesheet'> 
-  <link href='bootstrap-3.3.7-dist/css/main.css' rel='stylesheet'> 
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 </head>
@@ -36,7 +35,7 @@
     
   <div class='row'>
     <div class='text-center col-xs-4'>
-    <img class='img-circle' src='images/waddle.jpeg' width="200" height="200">
+    <img class='img-circle' src='images/waddle.png' width="200" height="200">
       <p>Polar bears are so cute!</p>
       <small>piggy said</small>
     </div>
