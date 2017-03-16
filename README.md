@@ -42,7 +42,7 @@
     
     <div class='row'>
   <div class='text-center col-xs-4'>
-      <img class='img-circle' src='images/song.JPG' width="42" height="42">
+      <img class='img-circle' src='images/song.JPG' width="60" height="60">
       <p>we all love bear!</p>
       <small>little song said</small>
     </div>
