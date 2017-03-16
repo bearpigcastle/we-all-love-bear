@@ -24,7 +24,7 @@
       <button class="btn btn-lg btn-success" type="submit">Send</button>
     </form>
 
-</div> 
+   </div> 
 
 
 
@@ -52,7 +52,7 @@
       <img class='img-circle' src='images/person.jpg'>
       <p>let's play together!</p>
     </div> 
-    </div>
+   </div>
 
 
 
