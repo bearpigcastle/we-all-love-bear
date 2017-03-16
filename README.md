@@ -1,12 +1,9 @@
 <html>
 <head>
   <title>bear castle</title>
-<<<<<<< HEAD
   <link href='bootstrap-3.3.7-dist/css/bootstrap.css' rel='stylesheet'> 
-=======
-  <link href='bootstrap-3.3.7-dist/css/bootstrap.css' rel='stylesheet'>
->>>>>>> origin/master
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 </head>
 
 <body>
@@ -17,11 +14,8 @@
 
     <h1>Welcome to bear castle</h1>
 
-<<<<<<< HEAD
-=======
 <HEAD>
 
->>>>>>> origin/master
     <img src='images/polarb.jpg'>
 
     <form role='form'>
@@ -29,13 +23,12 @@
       <input type="text" name="email" >
       <button class="btn btn-lg btn-success" type="submit">Send</button>
     </form>
-<<<<<<< HEAD
+
     
   </div>
-=======
+
     </div>
- 
->>>>>>> origin/master
+
 
 
 
@@ -88,7 +81,4 @@
 
 <!-- Sandwich from: © Kosoff | <a href="http://www.dreamstime.com/">Dreamstime Stock Photos</a> & <a href="http://www.stockfreeimages.com/">Stock Free Images</a> -->
 </html>
-=======
-we invite you the leave your meassage here.
->>>>>>> origin/master
 
