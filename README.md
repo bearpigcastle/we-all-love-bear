@@ -70,7 +70,7 @@
     <a class="btn-facebook" href="http://facebook.com">
       <button class="btn-facebook">Facebook</button>
       </a>
-    <a class="btn-pinterest" href="Pinterest.com">
+    <a class="btn-pinterest" href="https://uk.pinterest.com/">
       <button class="btn-pinterest">Pinterest</button>
       </a>
     </div>
