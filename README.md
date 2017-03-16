@@ -67,8 +67,12 @@
     <a class="btn-twitter" href="http://twitter.com">
       <button class="btn-twitter">Twitter</button>
       </a>
+    <a class="btn-facebook" href="http://facebook.com">
       <button class="btn-facebook">Facebook</button>
+      </a>
+    <a class="btn-pinterest" href="Pinterest.com">
       <button class="btn-pinterest">Pinterest</button>
+      </a>
     </div>
   </div>
 </div>
