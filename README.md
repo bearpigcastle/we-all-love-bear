@@ -35,21 +35,21 @@
     
   <div class='row'>
     <div class='text-center col-xs-4'>
-    <img class='img-circle' src='images/waddle.jpeg'>
+    <img class='img-circle' src='images/waddle.jpeg' width="200" height="200">
       <p>Polar bears are so cute!</p>
       <small>piggy said</small>
     </div>
     
     <div class='row'>
   <div class='text-center col-xs-4'>
-      <img class='img-circle' src='images/song.JPG' width="60" height="60">
+      <img class='img-circle' src='images/song.JPG' width="200" height="200">
       <p>we all love bear!</p>
       <small>little song said</small>
     </div>
    
     <div class='row'>
   <div class='text-center col-xs-4'>
-      <img class='img-circle' src='images/tu.JPG'>
+      <img class='img-circle' src='images/tu.JPG' width="200" height="200">
       <p>let's play together!</p>
     </div> 
    </div>
