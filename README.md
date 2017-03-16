@@ -1,21 +1,80 @@
-## Welcome to Bearpigcastle
-This is the home for every cute animal.
+<!DOCTYPE html>
+<html>
+<head>
+  <title>bear castle</title>
+  <link href='bootstrap-3.3.7-dist/css/bootstrap.css' rel='stylesheet'> <link href='bootstrap-3.3.7-dist/css/main.css' rel='stylesheet'>
 
-Whenever you commit to this repository, please ask bear
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-### Everyday Post
+<body>
 
-Here we publish daily story of animals from bearcastle
+<div class='container'>
+  
+  <div class='jumbotron'>
 
-<h1>
-why we like bear?
-</h1>
-<b>
-can I just write anything here?
-</b>
+    <h1>Welcome to bear castle</h1>
 
-For more details see https://bearpigcastle.github.io/we-all-love-bear/
 
-we invite you the leave your meassage here.
+    <img src='polarb.jpg'>
 
-goodnight!
+    <form role='form'>
+      <label for="email">Find out more</label>
+      <input type="text" name="email" >
+      <button class="btn btn-lg btn-success" type="submit">Send</button>
+    </form>
+  </div>
+ 
+
+
+
+
+
+  <div id="buzz">
+    <h2><small>The Buzz</small><br />What are people saying?</h2>
+    
+  <div class='row'>
+    <div class='text-center col-xs-4'>
+    <img class='img-circle' src='images/person.jpg'>
+      <p>Polar bears are so cute!</p>
+      <small>piggy said</small>
+    </div>
+    
+    <div class='row'>
+  <div class='text-center col-xs-4'>
+      <img class='img-circle' src='images/person.jpg'>
+      <p>we all love bear!</p>
+      <small>little song said</small>
+    </div>
+   
+    <div class='row'>
+  <div class='text-center col-xs-4'>
+      <img class='img-circle' src='images/person.jpg'>
+      <p>let's play together!</p>
+    </div> 
+    </div>
+
+
+
+
+  <div id="mission">
+    <h2><small>Our mission</small><br />Join us in helping bears</h2>
+
+    <p>we believe people loving bears are good people!</p>
+    <p>let's join us!</p>
+
+    <div id='social-buttons'>
+      <button class="btn-twitter">Twitter</button>
+      <button class="btn-facebook">Facebook</button>
+      <button class="btn-pinterest">Pinterest</button>
+    </div>
+  </div>
+
+
+</div>
+</body>
+
+
+<!-- Sandwich from: © Kosoff | <a href="http://www.dreamstime.com/">Dreamstime Stock Photos</a> & <a href="http://www.stockfreeimages.com/">Stock Free Images</a> -->
+</html>
+
