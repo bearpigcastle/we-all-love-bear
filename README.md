@@ -14,8 +14,6 @@ why we like bear?
 can I just write anything here?
 </b>
 
-For more details see https://bearpigcastle.github.io/we-all-love-bear/
-
 we invite you the leave your meassage here.
 
 goodnight!
