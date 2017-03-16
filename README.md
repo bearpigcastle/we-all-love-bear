@@ -61,7 +61,7 @@
     <h2><small>Our mission</small><br />Join us in helping bears</h2>
 
     <p>we believe people loving bears are good people!</p>
-    <p>let's join us!</p>
+    <p>let's do it together!</p>
 
     <div id='social-buttons'>
     <a class="btn-twitter" href="http://twitter.com">
