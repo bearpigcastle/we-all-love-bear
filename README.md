@@ -64,6 +64,7 @@
     <p>let's join us!</p>
 
     <div id='social-buttons'>
+    <a class="btn-twitter" href="http://twitter.com">
       <button class="btn-twitter">Twitter</button>
       <button class="btn-facebook">Facebook</button>
       <button class="btn-pinterest">Pinterest</button>
