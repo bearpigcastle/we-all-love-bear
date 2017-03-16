@@ -2,8 +2,7 @@
 <html>
 <head>
   <title>bear castle</title>
-  <link href='bootstrap-3.3.7-dist/css/bootstrap.css' rel='stylesheet'> <link href='bootstrap-3.3.7-dist/css/main.css' rel='stylesheet'>
-
+  <link href='bootstrap-3.3.7-dist/css/bootstrap.css' rel='stylesheet'>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
@@ -15,7 +14,7 @@
 
     <h1>Welcome to bear castle</h1>
 
-<<<<<<< HEAD
+<HEAD>
 
     <img src='polarb.jpg'>
 
@@ -24,7 +23,7 @@
       <input type="text" name="email" >
       <button class="btn btn-lg btn-success" type="submit">Send</button>
     </form>
-  </div>
+    </div>
  
 
 
