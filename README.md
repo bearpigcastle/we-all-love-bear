@@ -15,6 +15,7 @@
 
     <h1>Welcome to bear castle</h1>
 
+<<<<<<< HEAD
 
     <img src='polarb.jpg'>
 
@@ -77,4 +78,7 @@
 
 <!-- Sandwich from: © Kosoff | <a href="http://www.dreamstime.com/">Dreamstime Stock Photos</a> & <a href="http://www.stockfreeimages.com/">Stock Free Images</a> -->
 </html>
+=======
+we invite you the leave your meassage here.
+>>>>>>> origin/master
 
