@@ -2,11 +2,13 @@
 <head>
   <title>bear castle</title>
   <link href='bootstrap-3.3.7-dist/css/bootstrap.css' rel='stylesheet'> 
+  <link href='bootstrap-3.3.7-dist/css/tab.css' rel='stylesheet'> 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 
 </head>
+
 
 <body>
 
@@ -25,7 +27,26 @@
       <input type="text" name="email" >
       <button class="btn btn-lg btn-success" type="submit">Send</button>
     </form>
+    <div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
 
+<div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p> 
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div>
    </div> 
 
 
@@ -36,23 +57,24 @@
     <h2><small>The Buzz</small><br />What are people saying?</h2>
     
   <div class='row'>
-    <div class='text-center col-lg-4 col-xs-12'>
+    <div class='text-center col-lg-4'>
     <img class='img-circle' src='images/waddle.png' width="200" height="200">
       <p>Polar bears are so cute!</p>
-      <small>piggy said</small>
+      <small> --piggy</small>
     </div>
     
     <div class='row'>
-  <div class='text-center col-lg-4 col-xs-12'>
+  <div class='text-center col-lg-4'>
       <img class='img-circle' src='images/song.JPG' width="200" height="200">
       <p>we all love bear!</p>
-      <small>little song said</small>
+      <small> `--little song</small>
     </div>
    
     <div class='row'>
-  <div class='text-center col-lg-4 col-xs-12'>
+  <div class='text-center col-lg-4'>
       <img class='img-circle' src='images/tu.JPG' width="200" height="200">
       <p>let's play together!</p>
+      <small> --little Ground</small>
     </div> 
    </div>
 
